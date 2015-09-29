@@ -1,0 +1,7 @@
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\obj\Debug\LogicUnitTest.csprojResolveAssemblyReference.cache
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\bin\Debug\LogicUnitTest.dll
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\bin\Debug\LogicUnitTest.pdb
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\bin\Debug\SortArrays.dll
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\bin\Debug\SortArrays.pdb
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\obj\Debug\LogicUnitTest.dll
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\LogicUnitTest\obj\Debug\LogicUnitTest.pdb

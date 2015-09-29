@@ -1,0 +1,6 @@
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\SortArrays\bin\Debug\SortArrays.dll.config
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\SortArrays\bin\Debug\SortArrays.dll
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\SortArrays\bin\Debug\SortArrays.pdb
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\SortArrays\obj\Debug\SortArrays.csprojResolveAssemblyReference.cache
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\SortArrays\obj\Debug\SortArrays.dll
+c:\users\lizka\documents\visual studio 2013\Projects\SortArrays\SortArrays\obj\Debug\SortArrays.pdb
